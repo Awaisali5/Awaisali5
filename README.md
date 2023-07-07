@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awaisali5
-- 👀 I’m interested in Web development and Data Science
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in Full Stack development and Data Science
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on any web development related project
 
 
